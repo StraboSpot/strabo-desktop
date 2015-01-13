@@ -6,8 +6,8 @@ Big screen web environment for using strabo system
 This repository is for developing the 'desktop' strabo access application. 
 
 Target users:
-Microstructure data collector working with thin section images
-Geologist in remote field site
+- Microstructure data collector working with thin section images
+- Geologist in remote field site
 
 Functions include:
 
@@ -24,6 +24,7 @@ Functions include:
 
 These various functions woiuld all be different web pages
 
+One model that was suggested by Zach as an example for how the desktop version could look is the [UNAVCO website](http://www.unavco.org/).
 
 Questions:
 Needs to be able to function disconnected from central db
